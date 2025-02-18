@@ -100,8 +100,8 @@ public class Imunizacao {
         this.idDose = idDose;
     }
 
-    @Override
-    public String toString() {
+    // @Override
+    /*public String toString() {
         return "Imunizacao{" +
                 "nomeVacina='" + nomeVacina + '\'' +
                 ", numeroDoses=" + numeroDoses +
@@ -109,5 +109,5 @@ public class Imunizacao {
                 ", dataUltimaDose=" + dataUiltmaDose +
                 ", completa=" + completa +
                 '}';
-    }
+    } */
 }
