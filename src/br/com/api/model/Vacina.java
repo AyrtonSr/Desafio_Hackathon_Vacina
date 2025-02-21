@@ -1,3 +1,6 @@
+package br.com.api.model;
+
+
 import java.util.List;
 
 public class Vacina {

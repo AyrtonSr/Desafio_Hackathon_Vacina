@@ -1,3 +1,5 @@
+package br.com.api.model;
+
 import java.util.Date;
 
 public class Paciente {
