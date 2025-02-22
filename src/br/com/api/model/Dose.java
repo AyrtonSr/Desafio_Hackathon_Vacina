@@ -1,3 +1,6 @@
+package br.com.api.model;
+
+
 public class Dose {
     private int id;
     private int id_vacina;
